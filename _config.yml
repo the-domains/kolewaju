@@ -1,37 +1,37 @@
-name: kolewaju
-favicon: null
-layout_spectrum: 0.5298685
-typography_spectrum: 0.3004779
 title: null
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.1571087
+  brandStrength: 0.19773
+  lightness: 0.80227
+  brandColors:
+    - '#FFFFFF'
+  rhythmicContrast: 0.1188769
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: UA-73056752-1
   facebook: null
-  twitter: null
+name: kolewaju
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#FFFFFF'
-  brandStrength: 0
-  lightness: 0.80227
-  saturation: 0.1571087
-  rhythmicContrast: 0.1188769
-purpose: []
+typography_spectrum: 0.3004779
+layout_spectrum: 0.5298685
