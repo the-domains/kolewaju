@@ -21,7 +21,7 @@ color:
     - '#D8B492'
     - '#BC9377'
     - '#413226'
-  rhythmicContrast: 0.5250896
+  rhythmicContrast: 0.1188769
 cta:
   bucket: null
   version: null
@@ -30,11 +30,11 @@ analytics:
   twitter: null
   google: UA-73056752-1
   facebook: null
-name: kolewaju
 favicon: null
+name: kolewaju
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.5286738
-layout_spectrum: 0.7019116
+layout_spectrum: 0.5298685
