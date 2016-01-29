@@ -1,11 +1,23 @@
-layout_spectrum: 0.260724
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.5537634
 color:
   saturation: 0.0268183
-  lightness: 0.80227
   brandStrength: 0.3482676
+  rhythmicContrast: 0.1723361
   brandColors:
     - '#D0D0D0'
     - '#413B38'
-  rhythmicContrast: 0.1723361
+  lightness: 0.80227
+layout_spectrum: 0.5274791
 name: kolewaju
