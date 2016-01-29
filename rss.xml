@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[b u i l d f o r t h]]></title>
-        <description><![CDATA[b u i l d f o r t h]]></description>
+        <title><![CDATA[kolewaju]]></title>
+        <description><![CDATA[kolewaju]]></description>
         <link>https://thegrid.ai/kolewaju/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 06:05:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jan 2016 06:10:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kolewaju/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -35,11 +35,11 @@
             <pubDate>Fri, 29 Jan 2016 05:14:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>If you haven't failed much lately then you aren't trying hard enough to succeed.</p>]]></description>
+            <title><![CDATA[If you haven't failed much lately then you aren't trying hard enough to succeed.]]></title>
+            <description><![CDATA[<h1>If you haven't failed much lately then you aren't trying hard enough to succeed.</h1>]]></description>
             <link>https://thegrid.ai/kolewaju/01f3e3bd-d325-4bfd-8e7b-298ffa0b4ba5/index.html</link>
             <guid isPermaLink="false">01f3e3bd-d325-4bfd-8e7b-298ffa0b4ba5</guid>
-            <pubDate>Fri, 29 Jan 2016 05:20:53 GMT</pubDate>
+            <pubDate>Fri, 29 Jan 2016 06:10:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
