@@ -14,13 +14,10 @@ collections:
       number: 10
 color:
   saturation: 0.6792114
-  brandStrength: 0
+  brandStrength: 1
   lightness: 0.80227
   brandColors:
-    - '#91775D'
-    - '#D8B492'
-    - '#BC9377'
-    - '#413226'
+    - '#FFFFFF'
   rhythmicContrast: 0.1188769
 cta:
   bucket: null
@@ -36,5 +33,5 @@ opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.5286738
+typography_spectrum: 0.70908
 layout_spectrum: 0.5298685
