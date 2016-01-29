@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[kolewaju]]></title>
         <description><![CDATA[kolewaju]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kolewaju/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 05:07:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Jan 2016 05:11:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kolewaju/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Kanagawa Institute of Technology </p>]]></description>
+            <link>https://thegrid.ai/kolewaju/6cf5d8e7-a806-4764-a18c-fcf274ba198f/index.html</link>
+            <guid isPermaLink="false">6cf5d8e7-a806-4764-a18c-fcf274ba198f</guid>
+            <pubDate>Fri, 29 Jan 2016 05:10:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>I haven't failed much lately but I'm trying as hard as i can.</p>]]></description>
-            <link>undefined01f3e3bd-d325-4bfd-8e7b-298ffa0b4ba5/index.html</link>
+            <link>https://thegrid.ai/kolewaju/01f3e3bd-d325-4bfd-8e7b-298ffa0b4ba5/index.html</link>
             <guid isPermaLink="false">01f3e3bd-d325-4bfd-8e7b-298ffa0b4ba5</guid>
             <pubDate>Fri, 29 Jan 2016 05:07:39 GMT</pubDate>
         </item>
