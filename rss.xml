@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[kolewaju]]></title>
-        <description><![CDATA[kolewaju]]></description>
+        <title><![CDATA[k o l é w a j u]]></title>
+        <description><![CDATA[k o l é w a j u]]></description>
         <link>https://thegrid.ai/kolewaju/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 17:56:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 00:31:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kolewaju/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The only rule is work if you work it will lead to something. It's the people who do all the work all the time who eventually catch on to things]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kolewaju/2bd5e37b-a3e5-4e66-8529-733441613e31/index.html</link>
             <guid isPermaLink="false">2bd5e37b-a3e5-4e66-8529-733441613e31</guid>
             <pubDate>Fri, 29 Jan 2016 17:29:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://www.youtube.com/watch?v=9HtiQFQTFPM</p>]]></description>
+            <link>https://thegrid.ai/kolewaju/492d1352-daa0-4cdb-ad06-c497804c0282/index.html</link>
+            <guid isPermaLink="false">492d1352-daa0-4cdb-ad06-c497804c0282</guid>
+            <pubDate>Sun, 21 Feb 2016 00:31:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kolewaju/6cf5d8e7-a806-4764-a18c-fcf274ba198f/index.html</link>
             <guid isPermaLink="false">6cf5d8e7-a806-4764-a18c-fcf274ba198f</guid>
             <pubDate>Fri, 29 Jan 2016 05:14:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[If you haven't failed much lately then you aren't trying hard enough to succeed.]]></title>
-            <description><![CDATA[<h1>If you haven't failed much lately then you aren't trying hard enough to succeed.</h1>]]></description>
-            <link>https://thegrid.ai/kolewaju/01f3e3bd-d325-4bfd-8e7b-298ffa0b4ba5/index.html</link>
-            <guid isPermaLink="false">01f3e3bd-d325-4bfd-8e7b-298ffa0b4ba5</guid>
-            <pubDate>Fri, 29 Jan 2016 17:56:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
