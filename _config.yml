@@ -1,5 +1,8 @@
+name: k o l é w a j u
+favicon: null
+layout_spectrum: 0.5298685
+typography_spectrum: 0.713859
 title: null
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-73056752-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0.07825568
-  lightness: 0.5728793
   brandColors:
     - '#E7E7EA'
     - '#010203'
     - '#BBBCAC'
     - '#534B5B'
     - '#6591A4'
-  rhythmicContrast: 0.1798088
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: UA-73056752-1
-  facebook: null
-favicon: null
-name: kolewaju
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.713859
-layout_spectrum: 0.5298685
+  brandStrength: 0.0625
+  lightness: 0.375
+  saturation: 0.3125
+  rhythmicContrast: 0.5
+purpose: []
