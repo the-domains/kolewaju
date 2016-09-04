@@ -1,20 +1,20 @@
 ---
-datePublished: '2016-09-01T19:16:45.857Z'
+datePublished: '2016-09-01T20:03:47.490Z'
 sourcePath: _posts/2016-09-01-christopher-lanre-oladapo-associate-aia.md
-inFeed: true
+inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T19:16:45.381Z'
-title: About
+dateModified: '2016-09-01T20:03:47.117Z'
+title: about
 publisher: {}
 description: Christopher Lanre Oladapo Associate AIA
 starred: false
 url: christopher-lanre-oladapo-associate-aia/index.html
-_type: Article
+_type: Blurb
 
 ---
-# About
+# about
 
 Christopher Lanre Oladapo Associate AIA
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e556cb9-6888-47d4-9824-6a038ad73985.jpg)
