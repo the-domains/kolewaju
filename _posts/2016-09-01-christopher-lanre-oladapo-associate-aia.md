@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-01T20:08:56.320Z'
+datePublished: '2016-09-01T20:20:51.813Z'
 sourcePath: _posts/2016-09-01-christopher-lanre-oladapo-associate-aia.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T20:08:55.810Z'
+dateModified: '2016-09-01T20:20:50.829Z'
 title: about
 publisher: {}
 description: Christopher Lanre Oladapo Associate AIA
@@ -23,4 +23,7 @@ Christopher Lanre Oladapo's journey started in Lagos, Nigeria. There he was intr
 
 [Linkedin][0]
 
+[instagram][1]
+
 [0]: https://www.linkedin.com/in/clola "Linkedin"
+[1]: https://www.instagram.com/kolewaju/ "instagram"
