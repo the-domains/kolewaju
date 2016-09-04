@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-09-01T19:11:51.377Z'
+datePublished: '2016-09-01T19:12:13.391Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T19:11:17.925Z'
+dateModified: '2016-09-01T19:12:12.891Z'
 title: ''
 publisher: {}
 description: Christopher Lanre Oladapo Associate AIA
-starred: false
 sourcePath: _posts/2016-09-01-christopher-lanre-oladapo-associate-aia.md
-_type: Blurb
+hasPage: true
+starred: false
+url: christopher-lanre-oladapo-associate-aia/index.html
+_type: Article
 
 ---
 Christopher Lanre Oladapo Associate AIA
