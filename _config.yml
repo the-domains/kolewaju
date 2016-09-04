@@ -34,6 +34,9 @@ navigation:
   - name: blog
     url: 'http://kolewaju.com/'
     type: external
+  - name: portfolio
+    url: 'http://portfolios.scad.edu/oladapo'
+    type: external
 favicon: null
 collections:
   - index:
