@@ -1,4 +1,3 @@
-layout_spectrum: 0.4779681679792702
 typography_spectrum: 0.9493289131205529
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.4779681679792702
 analytics:
   google: UA-73056752-1
   facebook: null
@@ -28,12 +28,12 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: blog
-    url: 'http://kolewaju.com/'
-    type: external
   - name: about
     id: daa5fe5f-ad1a-46e9-aca2-30b5bba9db40
     type: content
+  - name: blog
+    url: 'http://kolewaju.com/'
+    type: external
 favicon: null
 collections:
   - index:
