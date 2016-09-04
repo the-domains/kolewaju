@@ -31,11 +31,11 @@ navigation:
   - name: about
     id: daa5fe5f-ad1a-46e9-aca2-30b5bba9db40
     type: content
-  - name: blog
-    url: 'http://kolewaju.com/'
-    type: external
   - name: portfolio
     url: 'https://www.behance.net/oladapo'
+    type: external
+  - name: blog
+    url: 'http://kolewaju.com/'
     type: external
 favicon: null
 collections:
