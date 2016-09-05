@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-09-02T05:56:57.727Z'
+datePublished: '2016-09-02T05:57:13.892Z'
 sourcePath: _posts/2016-09-02-leonard-residence.md
-inFeed: true
+inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T05:56:56.742Z'
+dateModified: '2016-09-02T05:57:13.256Z'
 title: leonard residence
 publisher: {}
 description: sketch model
-starred: false
+starred: true
 url: leonard-residence/index.html
 _context: 'http://schema.org'
 _type: Article
