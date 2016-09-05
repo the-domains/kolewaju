@@ -34,7 +34,7 @@ navigation:
   - name: portfolio
     url: 'http://portfolios.scad.edu/oladapo'
     type: external
-  - name: l o a d i n g . . .
+  - name: essays
     id: eff770f6-3963-4f0c-bb87-aef2e8015936
     type: content
   - name: blog
