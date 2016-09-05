@@ -1,3 +1,16 @@
+layout_spectrum: 0.2237863289192319
+typography_spectrum: 0.08324674516916275
+color:
+  saturation: 0.11446643620729446
+  brandStrength: 0.8191710954997689
+  rhythmicContrast: 0.8164315833710134
+  brandColors:
+    - '#FFFFFF'
+    - '#333333'
+    - '#5B5B5B'
+    - '#111111'
+    - '#BCBCBC'
+  lightness: 0.6235673539340496
 title: build forth
 purpose: []
 collections:
@@ -13,17 +26,6 @@ collections:
     permalink:
       path: '/:title/'
 description: creativity life here
-color:
-  saturation: 0.1802808735519648
-  brandStrength: 0.7986858
-  rhythmicContrast: 0.4589829770848155
-  brandColors:
-    - '#D2D1CD'
-    - '#C6C5C3'
-    - '#BBB9BA'
-    - '#B1ADAC'
-    - '#C1BFC0'
-  lightness: 0.8685062164440751
 cta:
   bucket: null
   version: null
@@ -51,5 +53,3 @@ navigation:
   - name: portfolio
     url: 'http://portfolios.scad.edu/oladapo'
     type: external
-typography_spectrum: 0.7246117
-layout_spectrum: 0.6756272
