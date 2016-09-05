@@ -37,6 +37,9 @@ navigation:
   - name: blog
     url: 'http://kolewaju.com/'
     type: external
+  - name: l o a d i n g . . .
+    id: eff770f6-3963-4f0c-bb87-aef2e8015936
+    type: content
 favicon: null
 collections:
   - index:
