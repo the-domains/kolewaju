@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-02T05:59:17.912Z'
+datePublished: '2016-09-02T06:03:54.228Z'
 sourcePath: _posts/2016-09-02-leonard-residence.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T05:59:17.146Z'
+dateModified: '2016-09-02T06:03:53.527Z'
 title: leonard residence
 publisher: {}
 description: sketch model
@@ -19,5 +19,7 @@ _type: Article
 
 ### santa monica CA
 ![sketch model](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d497eb87-4f08-4688-b924-d8f10eeae1c8.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c745f9bd-15a9-49a5-991e-ea3aac832533.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/218e4724-8acb-4a10-a1b3-363ae2855688.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f88d1b6-849b-4cb4-ac8a-11b0115a994a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/70d1c096-fb09-4c79-8da2-caaefbc8bea5.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae5dc65e-b289-44e8-ab01-d6285b09e1fe.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8caa224-7137-4ed8-9b3e-d47be6b1b03a.jpg)
