@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-09-02T05:27:18.555Z'
+datePublished: '2016-09-02T05:33:59.075Z'
 sourcePath: _posts/2016-09-02-leonard-residence.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-02T05:27:17.850Z'
+dateModified: '2016-09-02T05:33:58.490Z'
 title: leonard residence
 publisher: {}
 description: santa monica CA
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
