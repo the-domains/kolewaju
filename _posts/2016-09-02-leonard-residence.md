@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-09-02T05:33:59.075Z'
+datePublished: '2016-09-02T05:47:16.712Z'
 sourcePath: _posts/2016-09-02-leonard-residence.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-02T05:33:58.490Z'
+dateModified: '2016-09-02T05:47:15.557Z'
 title: leonard residence
 publisher: {}
-description: santa monica CA
+description: sketch model
 starred: false
 _context: 'http://schema.org'
 _type: Article
@@ -15,6 +15,7 @@ _type: Article
 ---
 # leonard residence
 
-santa monica CA
-![modern spin on a tradition barn house](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c63577e4-dd2d-49e3-bb21-424b2847f16b.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d497eb87-4f08-4688-b924-d8f10eeae1c8.jpg)
+### santa monica CA
+![sketch model](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d497eb87-4f08-4688-b924-d8f10eeae1c8.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c745f9bd-15a9-49a5-991e-ea3aac832533.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/218e4724-8acb-4a10-a1b3-363ae2855688.jpg)
