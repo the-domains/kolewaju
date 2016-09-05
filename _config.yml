@@ -1,16 +1,3 @@
-layout_spectrum: 0.2237863289192319
-typography_spectrum: 0.08324674516916275
-color:
-  saturation: 0.11446643620729446
-  brandStrength: 0.8191710954997689
-  rhythmicContrast: 0.8164315833710134
-  brandColors:
-    - '#FFFFFF'
-    - '#333333'
-    - '#5B5B5B'
-    - '#111111'
-    - '#BCBCBC'
-  lightness: 0.6235673539340496
 title: build forth
 purpose: []
 collections:
@@ -19,30 +6,24 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 description: creativity life here
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: UA-73056752-1
-  facebook: null
-favicon: null
-author:
-  name: Christopher Oladapo
-  email: chrisoladapo@gmail.com
-name: k o l é w a j u
-opengraph:
-  image: null
-  type: null
-  appId: null
+color:
+  saturation: 0.6146953
+  brandStrength: 0.8191710954997689
+  lightness: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#333333'
+    - '#5B5B5B'
+    - '#111111'
+    - '#BCBCBC'
+  rhythmicContrast: 0.532258
 navigation:
   - name: about
     id: daa5fe5f-ad1a-46e9-aca2-30b5bba9db40
@@ -53,3 +34,22 @@ navigation:
   - name: portfolio
     url: 'http://portfolios.scad.edu/oladapo'
     type: external
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: k o l é w a j u
+author:
+  name: Christopher Oladapo
+  email: chrisoladapo@gmail.com
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+analytics:
+  twitter: null
+  google: UA-73056752-1
+  facebook: null
+typography_spectrum: 0.08324674516916275
+layout_spectrum: 0.2237863289192319
