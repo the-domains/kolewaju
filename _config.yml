@@ -1,5 +1,43 @@
-title: build forth
-purpose: []
+typography_spectrum: 0.08324674516916275
+color:
+  saturation: 0.6146953
+  brandStrength: 0.8191710954997689
+  lightness: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#333333'
+    - '#5B5B5B'
+    - '#111111'
+    - '#BCBCBC'
+  rhythmicContrast: 0.532258
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.2237863289192319
+analytics:
+  twitter: null
+  google: UA-73056752-1
+  facebook: null
+author:
+  name: Christopher Oladapo
+  email: chrisoladapo@gmail.com
+name: k o l é w a j u
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: about
+    id: daa5fe5f-ad1a-46e9-aca2-30b5bba9db40
+    type: content
+  - name: blog
+    url: 'http://kolewaju.com/'
+    type: external
+  - name: portfolio
+    url: 'http://portfolios.scad.edu/oladapo'
+    type: external
+favicon: null
 collections:
   - index:
       path: /
@@ -12,44 +50,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-description: creativity life here
-color:
-  saturation: 0.6146953
-  brandStrength: 0.8191710954997689
-  lightness: 1
-  brandColors:
-    - '#FFFFFF'
-    - '#333333'
-    - '#5B5B5B'
-    - '#111111'
-    - '#BCBCBC'
-  rhythmicContrast: 0.532258
-navigation:
-  - name: about
-    id: daa5fe5f-ad1a-46e9-aca2-30b5bba9db40
-    type: content
-  - name: blog
-    url: 'http://kolewaju.com/'
-    type: external
-  - name: portfolio
-    url: 'http://portfolios.scad.edu/oladapo'
-    type: external
-cta:
-  bucket: null
-  version: null
-  domain: null
-name: k o l é w a j u
-author:
-  name: Christopher Oladapo
-  email: chrisoladapo@gmail.com
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-analytics:
-  twitter: null
-  google: UA-73056752-1
-  facebook: null
-typography_spectrum: 0.08324674516916275
-layout_spectrum: 0.2237863289192319
+title: build forth
+description: ''
+purpose: []
