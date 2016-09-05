@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-02T06:09:40.803Z'
+datePublished: '2016-09-02T06:16:36.240Z'
 sourcePath: _posts/2016-09-02-leonard-residence.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T06:09:40.148Z'
+dateModified: '2016-09-02T06:16:35.639Z'
 title: leonard residence
 publisher: {}
 description: ''
@@ -18,7 +18,7 @@ _type: Article
 # leonard residence
 
 ### santa monica CA
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d497eb87-4f08-4688-b924-d8f10eeae1c8.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27a79d03-3369-412c-bb54-aa7be0a9644e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f88d1b6-849b-4cb4-ac8a-11b0115a994a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/70d1c096-fb09-4c79-8da2-caaefbc8bea5.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae5dc65e-b289-44e8-ab01-d6285b09e1fe.jpg)
