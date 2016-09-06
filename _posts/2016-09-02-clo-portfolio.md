@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-09-02T18:14:30.279Z'
+datePublished: '2016-09-02T18:21:53.865Z'
 sourcePath: _posts/2016-09-02-clo-portfolio.md
 hasPage: true
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-09-02T18:14:29.882Z'
+dateModified: '2016-09-02T18:21:53.414Z'
 title: ''
 app_links:
   - url: 'issuu://chrisoladapo/docs/portfolio_print_v3/16'
@@ -27,4 +27,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fstatic.issuu.com%2Fwebembed%2Fviewers%2Fstyle1%2Fv2%2FIssuuReader.swf&amp;fv=mode%3Dmini%26documentId%3D140516223013-b6dc27e1c37a0549f7de0855bbcb63e9%26pageNumber%3D16&amp;url=https%3A%2F%2Fissuu.com%2Fchrisoladapo%2Fdocs%2Fportfolio_print_v3%2F16&amp;image=https%3A%2F%2Fimage.issuu.com%2F140516223013-b6dc27e1c37a0549f7de0855bbcb63e9%2Fjpg%2Fpage_16.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=application%2Fx-shockwave-flash&amp;schema=issuu" width="600" height="389" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzF0SgjAMRtGtZPIuLQ5QVMpealuhDH9DAsLurfCYL3MPVC5s4Aybm53GT2iC06jKPEvTQqhHLtW9RCA-eq_xGxy3z1RKOe8vaH1oWn4WmYoXgu0NkcZAtK5-eHuHdSUiXldklzAz8DFHg_3OojObudZoL1ajED45y8ROgzjzpCMEQ8cY37ys_s9dTf0DrTk8Lw" style=""></iframe>
