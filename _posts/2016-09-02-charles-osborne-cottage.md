@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-09-02T17:37:16.291Z'
+datePublished: '2016-09-02T18:05:10.656Z'
 sourcePath: _posts/2016-09-02-charles-osborne-cottage.md
 author: []
 via: {}
-dateModified: '2016-09-02T17:37:15.613Z'
+dateModified: '2016-09-02T18:05:10.074Z'
 title: charles osborne cottage
 publisher: {}
-description: 'carmel highland, ca'
+description: carmel highland CA
 starred: false
 inFeed: true
 hasPage: true
@@ -18,7 +18,7 @@ _type: Article
 ---
 # charles osborne cottage
 
-carmel highland, ca
+carmel highland CA
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6863c65-de29-44c5-8b40-1935bff95b1e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/448ac45d-3efc-4a64-bc0f-77fb3cf9fd62.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b043994-aba2-49cb-886b-5d266fe90f5d.jpg)
