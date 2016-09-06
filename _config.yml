@@ -40,6 +40,9 @@ navigation:
   - name: blog
     url: 'http://kolewaju.com/'
     type: external
+  - name: academic folio
+    id: 07dea285-4521-4b8d-b269-0e2081c944af
+    type: content
 favicon: null
 collections:
   - index:
