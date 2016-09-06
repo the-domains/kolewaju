@@ -15,16 +15,14 @@ app_links:
     namespace: ai
     app_name: Issuu
     app_store_id: '914453825'
-isBasedOnUrl: 'https://issuu.com/chrisoladapo/docs/portfolio_print_v3/16?e=7854116/30000297'
 title: ''
-datePublished: '2016-09-02T18:08:13.910Z'
-dateModified: '2016-09-02T18:07:45.805Z'
+datePublished: '2016-09-02T18:09:15.423Z'
+dateModified: '2016-09-02T18:09:15.022Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-09-02-clo-portfolio.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: clo-portfolio/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
