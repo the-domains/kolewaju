@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-09-02T18:32:13.281Z'
+datePublished: '2016-09-02T18:32:59.781Z'
 sourcePath: _posts/2016-09-02-clo-portfolio.md
 hasPage: true
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-09-02T18:32:12.825Z'
+dateModified: '2016-09-02T18:32:59.310Z'
 title: clofolio
 app_links:
   - url: 'issuu://chrisoladapo/docs/portfolio_print_v3/16'
@@ -29,5 +29,4 @@ _type: MediaObject
 ---
 # clofolio
 
-    <div data-configid="7854116/7950728" style="width:800px; height:518px;" class="issuuembed"></div>
-    <script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzE0SgjAMhuG9p-hkL6WOSEXKXWpbIQx_QwLC7a2wzJd5n9LjKrxle3Xj8MEavYFcZ3elHjJ_Zml-0yCI9y4Y-KLnptBpOm0v0QSsGy4ypeMFwnWWyAASLUvo38FDVcpoV5eS3IwTC96naHDYWLZ2teca7dkZkDIkR5q4sZdHn7QEwtI-xDfPS_h7Z1P9AJMsO-0" style=""></iframe>
