@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-02T06:11:21.707Z'
+datePublished: '2016-09-02T15:56:50.156Z'
 sourcePath: _posts/2016-09-01-christopher-lanre-oladapo-associate-aia.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T06:11:21.194Z'
+dateModified: '2016-09-02T15:56:47.768Z'
 title: about
 publisher: {}
 description: >-
@@ -22,7 +22,7 @@ description: >-
   architects. He is actively pursuing Licensure, in the hopes of adding to the
   knowledge base of architecture as a profession, instrument for living and an
   art form.
-starred: false
+starred: true
 url: christopher-lanre-oladapo-associate-aia/index.html
 _type: Blurb
 
