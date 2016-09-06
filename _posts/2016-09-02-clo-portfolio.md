@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-09-02T18:32:06.776Z'
+datePublished: '2016-09-02T18:32:13.281Z'
 sourcePath: _posts/2016-09-02-clo-portfolio.md
 hasPage: true
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-09-02T18:32:06.121Z'
+dateModified: '2016-09-02T18:32:12.825Z'
 title: clofolio
 app_links:
   - url: 'issuu://chrisoladapo/docs/portfolio_print_v3/16'
