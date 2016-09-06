@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-02T15:56:50.156Z'
+datePublished: '2016-09-02T15:59:18.182Z'
 sourcePath: _posts/2016-09-01-christopher-lanre-oladapo-associate-aia.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T15:56:47.768Z'
+dateModified: '2016-09-02T15:59:17.648Z'
 title: about
 publisher: {}
 description: >-
