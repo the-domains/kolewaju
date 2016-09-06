@@ -1,26 +1,26 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://issuu.com'
-  name: Issuu
-  favicon: 'https://issuu.com/favicon.ico'
-  domain: issuu.com
+datePublished: '2016-09-02T18:14:30.279Z'
+sourcePath: _posts/2016-09-02-clo-portfolio.md
+hasPage: true
 keywords: []
-description: ''
-inLanguage: fr
+related: []
+author: []
+via: {}
+dateModified: '2016-09-02T18:14:29.882Z'
+title: ''
 app_links:
   - url: 'issuu://chrisoladapo/docs/portfolio_print_v3/16'
     type: ios
     namespace: ai
     app_name: Issuu
     app_store_id: '914453825'
-title: ''
-datePublished: '2016-09-02T18:09:15.423Z'
-dateModified: '2016-09-02T18:09:15.022Z'
-via: {}
-sourcePath: _posts/2016-09-02-clo-portfolio.md
-hasPage: true
+publisher:
+  url: 'http://issuu.com'
+  name: Issuu
+  favicon: 'https://issuu.com/favicon.ico'
+  domain: issuu.com
+description: ''
+inLanguage: fr
 starred: false
 url: clo-portfolio/index.html
 _context: 'http://schema.org'
