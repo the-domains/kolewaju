@@ -4,7 +4,7 @@
         <description><![CDATA[b u i l d   f o r t h]]></description>
         <link>https://thegrid.ai/kolewaju/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 18:35:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 18:53:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kolewaju/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[charles osborne cottage]]></title>
@@ -21,10 +21,11 @@
             <pubDate>Fri, 02 Sep 2016 16:06:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CLO Portfolio]]></title>
-            <link>http://issuu.com/chrisoladapo/docs/portfolio_print_v3?e=7854116/7950728</link>
-            <guid isPermaLink="false">d1b9b4d9-609c-4607-96b3-02344eec90ed</guid>
-            <pubDate>Fri, 02 Sep 2016 18:35:11 GMT</pubDate>
+            <title><![CDATA[clofolio]]></title>
+            <description><![CDATA[<article><h1>clofolio</h1><p>savannah GA</p></article>]]></description>
+            <link>https://thegrid.ai/kolewaju/clofolio/index.html</link>
+            <guid isPermaLink="false">5bc80320-4bea-4a49-98fe-512be813e0a8</guid>
+            <pubDate>Fri, 02 Sep 2016 18:53:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
