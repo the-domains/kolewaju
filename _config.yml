@@ -31,12 +31,12 @@ navigation:
   - name: about
     id: daa5fe5f-ad1a-46e9-aca2-30b5bba9db40
     type: content
-  - name: essays
-    id: eff770f6-3963-4f0c-bb87-aef2e8015936
-    type: content
   - name: blog
     url: 'http://kolewaju.com/'
     type: external
+  - name: essays
+    id: eff770f6-3963-4f0c-bb87-aef2e8015936
+    type: content
   - name: academic folio
     id: 5bc80320-4bea-4a49-98fe-512be813e0a8
     type: content
