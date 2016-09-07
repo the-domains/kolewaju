@@ -1,16 +1,17 @@
 ---
-datePublished: '2016-09-03T07:02:06.222Z'
+datePublished: '2016-09-03T07:04:26.095Z'
 sourcePath: _posts/2016-09-03-schwartz-residence.md
 inFeed: true
-hasPage: false
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-03T07:02:05.769Z'
+dateModified: '2016-09-03T07:04:25.660Z'
 title: schwartz residence
 publisher: {}
 description: beverly hills CA
-starred: false
-_type: Blurb
+starred: true
+url: schwartz-residence/index.html
+_type: Article
 
 ---
 # schwartz residence
